@@ -1,0 +1,37 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel = "stylesheet" href = "home.css">
+	</head>
+	<body>
+		<ul id = "menu">
+			<li><a href = "Home.jsp">Home</a></li>
+			<li><a href = "register1.jsp">Register</a></li>
+			<li><a href = "Login.jsp">Login</a></li>
+			<li><a href = "About.jsp">About Us</a></li>
+			<li><a href = "Contact.jsp">Contact Us</a></li>
+		</ul>
+		<div>
+                    <p id="hm1">Fostering minds, Funding ideas</p>
+                    <p id="subh">TCA investors offer high quality mentoring and capital to new age entrepreneurs with innovative ideas</p>
+		</div>
+
+			<div id="page-container">
+                            <div id="content-wrap">
+				
+                            </div>
+                            <footer id="footer">
+                                <ul>
+				<li><a href = "home.html">Home</a></li>
+				<li><a href = "Register.html">Register</a></li>
+				<li><a href = "About.html">AboutUs</a></li>
+				<li><a href = "ContactUs.html">Contact Us</a></li>
+				<h1>Copyright©2019</h1>
+                                </ul>
+                            </footer>
+			</div>
+
+
+	</body>
+</html>

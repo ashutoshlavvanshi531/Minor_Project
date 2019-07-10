@@ -1,0 +1,141 @@
+body
+{
+	background-size : 100%;
+	background-repeat : no-repeat;
+	background-image : url('img7.jpg');
+        background-color: #f3efee;
+}
+h1
+{
+	font-size: 30px;
+	color: whitesmoke;
+        background-color : #555555;
+	
+} 
+#about
+{
+    font-size: 40px;
+    color:  whitesmoke;
+}
+h2
+{
+    font-size: 80px;
+    color: whitesmoke;
+}
+h6
+{
+    font-size: 60px;
+    color: whitesmoke;
+}
+#subh
+{
+  font-size: 40px;
+    color: whitesmoke;  
+}
+#hm1
+{
+    font-size: 70px;
+    color: whitesmoke;
+}
+#rg1
+{	
+	font-size: 30px;
+	color: whitesmoke;
+	border: 1px solid black;
+	background-color: rgb(0.2,0.2,0.2,0.5);
+}
+#propTable
+{	
+	border: 1px solid gray;
+	border-radius: 18px;
+	padding: 90px;
+}
+#propTable1
+{	
+        border-collapse: separate;
+	border: 1px solid gray;
+	border-radius: 18px;
+	padding: 70px;
+        border-spacing: 0.7em;
+           font-size :30px;
+}
+
+table tr
+{
+	padding: 15px;
+	border : 1px solid white;
+	border-radius: 23px 
+}
+table tr,td
+{   
+	color: rgb(255,255,255,1.0);
+	padding: 20px;
+	border : 1px solid white;
+	border-radius: 23px 
+            
+}
+button
+{	
+	background-color: gray;
+	border-radius: 20px;
+}
+#page-container {
+  position: relative;
+  min-height: 100vh;
+}
+.thead
+{
+    color:red;
+}
+#content-wrap {
+  padding-bottom: 2.5rem;    /* Footer height */
+}
+#footer
+{	
+	position: absolute;
+        bottom: 0;
+        width: 100%;
+        height: 10.5rem;
+        color: #F8F8FF;
+        background-color : #555555;
+}
+.iptxt
+{
+    border-radius: 23px;
+}
+#new
+{   
+    border-radius: 23px;
+    color: black;
+    background-color: white;
+}
+#lgt
+{   
+    text-decoration: none;    
+    color: white;
+    font-size: 44px;
+}
+#menu
+{
+	margin-top: 60px;
+	text-align: right;
+}
+#menu ul,li
+{	
+	margin-top:40px;
+	padding: 15px;
+	display: inline-block;
+	font-size : 50px;
+	text-decoration : none;
+}
+a
+{	
+	color: white;
+	text-decoration: none;	
+}
+#cat
+{
+    border: 1px solid gray;
+	border-radius: 18px;
+	padding: 90px;
+}
